@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Calculator
 //
-//  Created by Matt Dias on 1/17/19.
-//  Copyright © 2019 Matt Dias. All rights reserved.
+//  Created by Alejandro Garcia on 1/17/19.
+//  Copyright © 2019 Alejandro Garcia. All rights reserved.
 //
 
 import UIKit
